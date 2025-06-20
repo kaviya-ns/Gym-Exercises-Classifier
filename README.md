@@ -9,3 +9,6 @@
 ## -Squat
 
 
+## Below is the link to demo video.zip
+
+https://drive.google.com/file/d/1JD5tZ2ecdxajEwwLUhqvYyCEY5OY-hwG/view?usp=drive_link
