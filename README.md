@@ -3,8 +3,5 @@
 ##-Bicep curl
 ##-Lateral Raise
 ##-Squat
-##Below is the Link to Custom dataset I've created for this project : 
 
-
-##Below is the Link to Demo Video: 
 
