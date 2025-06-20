@@ -1,5 +1,6 @@
 # Gym-Exercises-Classifier
-##a 3-class video action classifier for the following exercises: - - - 
+
+#a 3-class video action classifier for the following exercises: - - - 
 ##-Bicep curl
 ##-Lateral Raise
 ##-Squat
