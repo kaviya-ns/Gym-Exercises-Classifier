@@ -9,9 +9,9 @@
 ### -Squat
 
 
-## link to Demo video.zip:
+## link to Demo video:
 
-https://drive.google.com/file/d/1JD5tZ2ecdxajEwwLUhqvYyCEY5OY-hwG/view?usp=drive_link
+https://drive.google.com/file/d/1Skycno-lSDNNRCrgPWV4hrUZODhxn0zd/view?usp=sharing
 
 ## link to Explanation Report 
 
