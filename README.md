@@ -8,7 +8,7 @@
 
 ### -Squat
 
-## link to main.ipynb
+## link to main.ipynb:
 
 https://colab.research.google.com/drive/1euBdIZah9v4leJfLH4yBDpz4b9OPacei?usp=sharing
 
